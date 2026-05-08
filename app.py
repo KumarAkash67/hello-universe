@@ -1,5 +1,5 @@
 def main():
-    print("[hello-universe] run starting")
+    print("[hello-universe] run starting wow")
     print("hello universe")
     print("[hello-universe] run finished")
 
